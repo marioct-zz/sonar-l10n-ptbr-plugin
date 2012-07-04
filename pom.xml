@@ -81,9 +81,9 @@
   </build>
 
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/tags/sonar-l10n-es-plugin-1.6</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/tags/sonar-l10n-es-plugin-1.6</developerConnection>
-    <url>scm:svn:https://svn.codehaus.org/sonar-plugins/tags/sonar-l10n-es-plugin-1.6</url>
+    <url>https://github.com/marioct/sonar-l10n-ptbr-plugin</url>
+    <connection>git://github.com/marioct/sonar-l10n-ptbr-plugin.git</connection>
+    <developerConnection>git://github.com/marioct/sonar-l10n-ptbr-plugin.git</developerConnection>
   </scm>
 
   <profiles>
@@ -160,4 +160,8 @@
       </build>
     </profile>
   </profiles>
+  <issueManagement>
+  	<system>GitHub</system>
+  	<url>https://github.com/marioct/sonar-l10n-ptbr-plugin/issues</url>
+  </issueManagement>
 </project>
