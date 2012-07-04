@@ -82,8 +82,6 @@
 
   <scm>
     <url>https://github.com/marioct/sonar-l10n-ptbr-plugin</url>
-    <connection>git://github.com/marioct/sonar-l10n-ptbr-plugin.git</connection>
-    <developerConnection>git://github.com/marioct/sonar-l10n-ptbr-plugin.git</developerConnection>
   </scm>
 
   <profiles>
